@@ -17,7 +17,7 @@
           También podrás encontrar grabaciones de los eventos pasados.</li>
       <li><a href="https://t.me/+veGvuTZrAL40MDY0">Canal de Telegram de Cloud Native Sevilla</a><br />
           Charla con organizadores, ponentes y asistentes sobre cualquier tema de interés común.</li>
-      <li><a href="https://svqtech.com/calendario/">SVQTech - agrupación de comunidades tech en Sevilla</a>
+      <li><a href="https://svqtech.com/calendario/">SVQTech - agrupación de comunidades tech en Sevilla</a><br />
           Comprueba en el calendario de eventos qué están organizando otras comunidades en la ciudad.</li>
     </ul>
   </body>
