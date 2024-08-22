@@ -10,6 +10,8 @@
           Es necesario visitar esta web para registrarse y asistir en persona a los eventos.</li>
       <li><a href="https://www.meetup.com/cloud-native-sevilla/">Cloud Native Sevilla - meetup.com</a><br />
           En el grupo de meetup.com tan solo se realizarán anuncios de los eventos.</li>
+      <li><a href="https://www.linkedin.com/groups/13076051/">Cloud Native Sevilla - grupo LinkedIn</a><br />
+        Únete a nuestro grupo de LinkedIn para estar informado a través de él de nuestras actividades.</li>
       <li><a href="https://www.youtube.com/@CloudNativeSevilla">Cloud Native Sevilla - canal YouTube</a><br />
           En el canal de YouTube se realizarán transmisiones en directo de los eventos, siempre que sea técnicamente posible.<br />
           También podrás encontrar grabaciones de los eventos pasados.</li>
