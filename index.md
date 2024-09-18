@@ -3,7 +3,7 @@
     <title>Cloud Native Sevilla</title>
   </head>
   <body>
-    ![Cloud Native Sevilla](https://github.com/user-attachments/assets/e26d9733-b510-4b52-a613-eaffff87f36b)
+    ![Cloud Native Sevilla](https://github.com/user-attachments/assets/e26d9733-b510-4b52-a613-eaffff87f36b)<br>
     Esta web contiene información de <b>Cloud Native Sevilla</b>, comunidad oficial de la Cloud Native Computing Foundation (CNCF) en Sevilla.
     <ul>
       <li><a href="https://community.cncf.io/cloud-native-sevilla/">Cloud Native Sevilla - web oficial de la comunidad en la CNCF</a><br />
