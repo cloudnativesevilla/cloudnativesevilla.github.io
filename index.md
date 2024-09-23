@@ -23,3 +23,6 @@ Esta web contiene información de **Cloud Native Sevilla**, comunidad oficial de
 * [SVQTech - agrupación de comunidades tech en Sevilla](https://svqtech.com/calendario/)  
   Comprueba en el calendario de eventos qué están organizando otras comunidades en la ciudad.  
 
+¿Quieres participar presentando una charla? Es muy fácil, solo tienes que escoger un tema basado principalmente en herramientas open source, y escribirnos un email a sevilla.cncg (at) gmail.com.
+
+Las charlas suelen tener el objetivo de durar 1 hora, y hacemos muchas preguntas así que no te preocupes en crear una presentación muy larga o ejecutarlo todo en una demo en tiempo real, porque el público es muy interactivo y lo principal es intercambiar ideas.
