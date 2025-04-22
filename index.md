@@ -17,8 +17,8 @@ Esta web contiene información de **Cloud Native Sevilla**, comunidad oficial de
   En el canal de YouTube se realizarán transmisiones en directo de los eventos, siempre que sea técnicamente posible.  
   También podrás encontrar grabaciones de los eventos pasados.  
 
-* [Canal Telegram](https://t.me/+veGvuTZrAL40MDY0).  
-  Charla con organizadores, ponentes y asistentes sobre cualquier tema de interés común.  
+* [Telegram canal Cloud Native Sevilla en SVQTec](https://t.me/+IKebP_J4X2Y0OGI0).  
+  Charla con organizadores, ponentes y asistentes sobre cualquier tema de interés común. El nuevo canal está integrado en el grupo SVQTec de comunidades tecnológicas en Sevilla, donde hay un canal específico para Cloud Native Sevilla. El antiguo grupo en https://t.me/+veGvuTZrAL40MDY0 será eventualmente dado de baja.
 
 * [SVQTech - agrupación de comunidades tech en Sevilla](https://svqtech.com/calendario/)  
   Comprueba en el calendario de eventos qué están organizando otras comunidades en la ciudad.  
